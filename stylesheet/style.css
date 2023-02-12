@@ -20,6 +20,7 @@ header nav ul{
     list-style: none;
     gap: 40px;
     cursor: pointer;
+    transition-delay: 0.2s;
 }
 ul li:hover{
     font-size: larger;
