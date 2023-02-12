@@ -123,6 +123,10 @@ footer img{
     width: 30px;
     height: 30px
 }
+footer img:hover{
+    width: 40px;
+    height: 40px;
+}
 @media screen and (max-width: 576px){
    
     header nav ul{
